@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @AlexandrosAlexandrov
+- 👋 Hi, I’m Alexandros Alexandrov
 - 👀 I’m interested in Web Development and Mobile Development
-- 🌱 I’m currently learning the above
 
 https://www.linkedin.com/in/alex-alexantrof-358a9217a
